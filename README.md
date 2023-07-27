@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nasrulazis
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Laravel 9
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Web related Work
 - 📫 How to reach me [linked.in/](https://www.linkedin.com/in/mohammadnasrulazis/)
 
