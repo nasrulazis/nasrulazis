@@ -1,11 +1,10 @@
 Hi 👋 My name is Nasrul Azis
 ============================
 
-As an adept software engineer, I primarily focus on full stack and qa on web development.
+As a Software Quality Assurance Engineer and Quality Enthusiast, I pay close attention to detail to make sure reliability, scalability and quality of the software.
 
-* 🌍  I'm based in Tuban, Jawa Timur
-* 🧠  I'm learning Agile web development using MERN Stack
-* 🧠  I'm learning to Test website and mobile manually or automation
+* 🌍  I'm based in Jakarta
+* 🧠  I'm learning website and mobile testing both manually or automation
 * 🤝  I'm open to collaborating on Web Development Projects
 
 <a href="https://www.github.com/nasrulazis" target="_blank" rel="noreferrer"><img
